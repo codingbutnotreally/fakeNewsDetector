@@ -93,7 +93,7 @@ The model’s performance was evaluated using the following metrics:
 
 ## 🧾 Conclusion
 
-We implemented a **Bidirectional LSTM** model for fake news detection, inspired by the approach proposed in the paper [“Detecting opinion spams and fake news using text classification”](https://www.sciencedirect.com/science/article/pii/S2405959521001375).
+We implemented a **Bidirectional LSTM** model for fake news detection, inspired by the approach proposed in the paper [“Detection of fake news using deep learning CNN–RNN based methods”](https://www.sciencedirect.com/science/article/pii/S2405959521001375).
 
 Our results demonstrate excellent performance on the ISOT dataset, with an **AUC of 1.0** and an **accuracy of 99.81%**, showing that the model is highly capable of distinguishing between real and fake news articles. The results validate the effectiveness of Bidirectional LSTM architectures in text classification tasks.
 
